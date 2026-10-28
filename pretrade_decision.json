@@ -1,0 +1,14 @@
+{
+  "trade_allowed": false,
+  "best_symbol": null,
+  "direction": null,
+  "score": 0,
+  "expected_net_profit_ngn": 0,
+  "expected_max_loss_ngn": 500,
+  "net_risk_reward": 0,
+  "spread_cost_ngn": 0,
+  "margin_required_usd": 0,
+  "sl_price": 0,
+  "tp_price": 0,
+  "reason": "No commodity currently meets the profit-margin safety rules"
+}

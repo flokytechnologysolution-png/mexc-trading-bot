@@ -1,0 +1,82 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+credentials.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# Runtime output and local logs
+auto_run_out.txt
+bg_out.txt
+*.log
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# Generated output
+auto_run_out.txt
+bg_out.txt
+*.log
+best_symbol_decision.json
+pretrade_decision.json
+profit_decision.json
+commodities_scan.csv
+runs/synthetic/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# Generated output
+auto_run_out.txt
+bg_out.txt
+*.log
+best_symbol_decision.json
+pretrade_decision.json
+profit_decision.json
+commodities_scan.csv
+runs/synthetic/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/

@@ -1,0 +1,19 @@
+2026-08-28 04:37:38 | ============================================================
+2026-08-28 04:37:38 |  AI TRADING BOT v2 STARTED - DRY RUN (add --live to send real orders)
+2026-08-28 04:37:38 |  Symbol=XAUUSD | Lot=0.01 | MinConfidence=60 | Interval=900s
+2026-08-28 04:37:38 | ============================================================
+2026-08-28 04:37:38 | [*] Market: price=4583.28 bid=4583.28 ask=4583.65 SMA9=4583.21 SMA21=4591.36 RSI=34.65
+2026-08-28 04:40:54 | ============================================================
+2026-08-28 04:40:54 |  AI TRADING BOT v2 STARTED - DRY RUN (add --live to send real orders)
+2026-08-28 04:40:54 |  Symbol=XAUUSD | Lot=0.01 | MinConfidence=60 | Interval=900s
+2026-08-28 04:40:54 | ============================================================
+2026-08-28 04:40:54 | [*] Market: price=4582.41 bid=4582.41 ask=4582.76 SMA9=4583.11 SMA21=4591.32 RSI=34.12
+2026-08-28 04:42:08 | ============================================================
+2026-08-28 04:42:08 |  AI TRADING BOT v2 STARTED - DRY RUN (add --live to send real orders)
+2026-08-28 04:42:08 |  Symbol=XAUUSD | Lot=0.01 | MinConfidence=60 | Interval=900s
+2026-08-28 04:42:08 | ============================================================
+2026-08-28 04:42:09 | [*] Market: price=4581.03 bid=4581.03 ask=4581.41 SMA9=4582.96 SMA21=4591.25 RSI=33.32
+2026-08-28 04:42:37 | [*] AI decision: {"symbol": "XAUUSD", "decision": "WAIT", "confidence": 0, "reason": "AI evaluation error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=30)"}
+2026-08-28 04:42:37 | [*] AI says WAIT - no trade this cycle
+2026-08-28 04:43:02 | [*] AI decision: {"symbol": "XAUUSD", "decision": "WAIT", "confidence": 0, "reason": "AI evaluation error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-3.7-flash:generateContent (Caused by NameResolutionError(\"HTTPSConnection(host='generativelanguage.googleapis.com', port=443): Failed to resolve 'generativelanguage.googleapis.com' ([Errno 11001] getaddrinfo failed)\"))"}
+2026-08-28 04:43:02 | [*] AI says WAIT - no trade this cycle

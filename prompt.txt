@@ -1,0 +1,7 @@
+You are updating the existing Sun Tzu MT5 trading bot. Follow this checklist carefully and do NOT break or modify the existing MT5 connection logic in mt5_bridge.py:
+
+1. Add a Hunter scanner module to dynamically detect newly available MT5 symbols and rank momentum/volume opportunities.
+2. Integrate the dynamic stop-loss logic (volatility/ATR-based scaling) with break-even and trailing stop-loss features.
+3. Configure the daily profit target to exactly ?3,000/day and enforce a strict 3% daily maximum loss limit.
+4. Perform a dry-run test of the changes to verify functionality.
+5. Commit the changes and push them to your GitHub repository.

@@ -1,0 +1,11 @@
+{
+  "trade_allowed": true,
+  "best_symbol": "LTCUSD",
+  "score": 99.3,
+  "spread_cost_ngn": 8.0,
+  "usable_sl_points": 3072.0,
+  "margin_usd": 0.0,
+  "net_win_ngn": 742.0,
+  "min_lot": 0.01,
+  "reason": "Best symbol for NGN 10000 with NGN 500 risk"
+}
